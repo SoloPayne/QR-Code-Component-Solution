@@ -90,8 +90,8 @@ I will be looking further into how to use various animations in the future.
 
 ### Useful resources
 
-- [Example resource 1](https://www.codepen.io) - This is an amazing site for great design and coding ideas.
-- [Example resource 2](https://www.w3schools.com/cssref/default.asp) - This is an amazing site for everything you need to learn about coding.
+- [Resource 1](https://www.codepen.io) - This is an amazing site for great design and coding ideas.
+- [Resource 2](https://www.w3schools.com/cssref/default.asp) - This is an amazing site for everything you need to learn about coding.
 
 ## Author
 
