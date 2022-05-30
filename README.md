@@ -11,7 +11,9 @@
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -23,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [QR Component](https://solopayne.github.io/QR-Code-Component-Solution/)
-- Live Site URL:[Live Site](https://solopayne.github.io/QR-Code-Component-Solution/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -90,8 +92,8 @@ I will be looking further into how to use various animations in the future.
 
 ### Useful resources
 
-- [Resource 1](https://www.codepen.io) - This is an amazing site for great design and coding ideas.
-- [Resource 2](https://www.w3schools.com/cssref/default.asp) - This is an amazing site for everything you need to learn about coding.
+- [Example resource 1](https://www.codepen.io) - This is an amazing site for great design and coding ideas.
+- [Example resource 2](https://www.w3schools.com/cssref/default.asp) - This is an amazing site for everything you need to learn about coding.
 
 ## Author
 
