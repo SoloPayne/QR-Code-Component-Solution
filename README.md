@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![]([images/screenshot.jpg](https://www.linkpicture.com/q/challenge-git.png)
+[images/screenshot.jpg](https://www.linkpicture.com/q/challenge-git.png)
 
 ### Links
 
 - Solution URL: [Solution](https://www.linkpicture.com/q/challenge-git.png)
-- Live Site URL: [Live Site](https://solopayne.github.io/QR-Code-Component-Solution/))
+- Live Site URL: [Live Site](https://solopayne.github.io/QR-Code-Component-Solution/)
 
 ## My process
 
